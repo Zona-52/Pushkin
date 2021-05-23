@@ -11,8 +11,6 @@ html, body
     background: url("img/dark-brown.jpg") no-repeat, #742;
     background-size: cover;
     background-attachment: fixed;
-
-    line-height: 2rem;
     font-family: 'KoHo', sans-serif;
     font-size: 1.3rem;
     color: #eee;
